@@ -1,0 +1,31 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "name": "venkatesh",
+      "password": "venkatesh123"
+    },
+    {
+      "id": 2,
+      "name": "venkat",
+      "password": "venkat456"
+    }],
+    "customer": [
+      {
+        "id": 1,
+        "name": "venkatesh",
+        "address": "molkapatnam",
+        "email":"venkat@gmail.com"
+      },
+      {
+        "id": 2,
+        "name": "vinay",
+        "address": "hyd",
+        "email":"vinay@gmail.com"
+      }
+  ],
+  "dogimages":
+  [
+   {"url":"https://cdn.pixabay.com/photo/2017/09/25/13/12/cocker-spaniel-2785074__340.jpg"}
+  ]
+}

@@ -1,0 +1,6 @@
+{ "employees":[{"id":1,"name":"venkat","password":"1234"},
+    {"id":2,"name":"venkatesh","password":"123456"},{"id":3,"name":"venkateshwarlu","password":"12345678"}
+
+]
+
+}
